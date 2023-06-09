@@ -3,6 +3,6 @@ body {
 }
 
 header {
-    background-color: gray;
-    border: solid black;
+    border: black;
+    border-style: double;
 }
