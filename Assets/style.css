@@ -6,3 +6,12 @@ header {
     border: black;
     border-style: double;
 }
+
+img {
+    height: 275px;
+    width: 175px;
+}
+
+p {
+    font-size: 80%;
+}
