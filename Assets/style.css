@@ -1,3 +1,8 @@
 body {
     background-color: #FCE8F5;
 }
+
+header {
+    background-color: gray;
+    border: solid black;
+}
