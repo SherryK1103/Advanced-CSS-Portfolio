@@ -13,7 +13,11 @@ body {
 header {
     border: black;
     border-style: double;
+    > h1 {
+        margin-left: 15px;
+    }
 }
+
 .sherry-photo {
     height: 275px;
     width: 175px;
@@ -23,14 +27,17 @@ p {
     font-size: 100%;
 }
 
-#about-me {
-    margin-right: 50px;
-    margin-left: 50px;
+section {
+    border: double black;
+    border-radius: 5px;
+    margin: 20px 0px 20px 0px;
+    padding: 10px;
 }
 
-#my-work {
+.main-content {
     margin-right: 50px;
     margin-left: 50px;
+    background-color: #fcf9fb;
 }
 
 .first-webpage-photo {
@@ -66,4 +73,13 @@ p {
     width: 150px;
     color: black;
     background-color: lightgrey;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+}
+
+.sub-heading {
+    color: navy;
 }
