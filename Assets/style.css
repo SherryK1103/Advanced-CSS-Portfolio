@@ -23,6 +23,16 @@ p {
     font-size: 100%;
 }
 
+#about-me {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+#my-work {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
 .first-webpage-photo {
     height: 200px;
     width: 350px;
@@ -36,6 +46,7 @@ p {
     color: black;
     background-color: lightgrey;
 }
+/** Creates a "titled image" by placing the text onto the image. */
 
 @media screen and (max-width:600px) {
     body {
