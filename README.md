@@ -15,7 +15,7 @@ https://sherryk1103.github.io/Advanced-CSS-Portfolio/
 
 ## Usage
 
-![advanced css portfolio screenshot](https://sherryk1103.github.io/Advanced-CSS-Portfolio/Assets/Images/css-port-image.png)
+![advanced css portfolio screenshot](https://github.com/SherryK1103/Advanced-CSS-Portfolio/blob/main/Assets/Images/css-port-image.png?raw=true)
 
 ## Process Steps
 
